@@ -37,6 +37,11 @@ List of projects I've designed, built, or worked on.
 - *Intuiface, UI, UX*
 - [Mockups](CoAS/as_voices)
 
+**Digital Signage Wayfinding Redesign [2019]**
+- The goal was to redesign the wayfinding to match UK's new brand guidelines. Left role before I was able to develop it.
+- *Figma, UI, UX*
+- [Mockups](CoAS/digital_signage/redesign)
+
 **Digital Signage Wayfinding [2017-19]**
 - Designed a template to maintain a singular theme for interactive signage used by College departments. Templates were built out in Intuiface and are used primarily for wayfinding.
 - *Intuiface, UI, UX*
