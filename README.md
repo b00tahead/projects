@@ -15,6 +15,7 @@ List of projects I've designed, built, or worked on.
 **True Lean Website Redesign [2019]**
 - Originally was meant to be a new website design and rebranding for the Lean Systems program but design went unused.
 - *Figma, UI, UX*
+- [Mockups](CoE/true_lean)
 
 ---
 
@@ -28,24 +29,24 @@ List of projects I've designed, built, or worked on.
 **Triage Redesign [2019]**
 - Designed a concept (unused) for an updated user interface to improve the help desk ticketing system used by the College.
 - *Figma, UI, UX*
-- Mockup
+- [Mockup](CoAS/triage)
 
 **A&S Voices [2018-19]**
 - Interactive recruitment tool built for use on iPads to display videos and information on all College of Arts & Sciences majors.
 - *Intuiface, UI, UX*
-- Mockups
+- [Mockups](CoAS/as_voices)
 
 **Digital Signage Wayfinding [2017-19]**
 - Designed a template to maintain a singular theme for interactive signage used by College departments. Templates were built out in Intuiface and are used primarily for wayfinding.
 - *Intuiface, UI, UX*
-- Mockups/Demos
+- [Mockups/Demos](CoAS/digital_signage)
 
 **Campaign Monitor Templates [2017-19]**
 - Email marketing tool that we used to create and send email newsletters.
 - *HTML, CSS*
-- Example
+- [Example template](CoAS/campaign_monitor)
 
-**College of Arts & Sciences Voting System [2017-18]**
+**[College of Arts & Sciences Voting System](https://elections.as.uky.edu/) [2017-18]**
 - Internal voting tool used to elect faculty to different committees.
 - *HTML, CSS, Bootstrap, Meteor.js*
 
@@ -56,7 +57,9 @@ List of projects I've designed, built, or worked on.
 **UK Athletics Schedules [2017]**
 - Built an interface and API to display UK athletic team schedules within an interactive display.
 - *Node.js, Express.js, React, HTML, CSS*
-- Demo
+- [Example screenshots/gifs](CoAS/uk_athletics)
+- [Repo - Interface](https://github.com/b00tahead/digital-signage-ui)
+- [Repo - API](https://github.com/b00tahead/digital-signage)
 
 ---
 
