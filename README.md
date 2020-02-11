@@ -6,6 +6,7 @@ List of projects I've designed, built, or worked on.
 **[College of Engineering Website](https://www.engr.uky.edu/) [2019-20]**
 - I currently maintain and build out new features for the main College website.
 - *Drupal, PHP, CSS*
+- [Example features/updates](CoE/engr)
 
 **Engineering Lab Theme Redesign [2019-20]**
 - Redesigned the old lab Drupal theme to incorporate more current UK Brand standards.
