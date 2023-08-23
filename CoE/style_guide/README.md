@@ -1,15 +1,15 @@
 ### Content
 
-![Content](Content.png)
+![Content](content.png)
 
 ---
 
 ### Web Components
 
-![Web Components](Web Components.png)
+![Web Components](web_components.png)
 
 ---
 
 ### Experimental Components
 
-![Experimental Components](Experimental Components.png)
+![Experimental Components](experimental_components.png)

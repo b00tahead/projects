@@ -1,27 +1,27 @@
 ### Mobile
 
-![(Mobile) front-page.php]((Mobile) front-page.php.png)
-![(Mobile) page.php]((Mobile) page.php.png)
-![(Mobile) single-event.php]((Mobile) single-event.php.png)
-![(Mobile) single-speaker.php]((Mobile) single-speaker.php.png)
-![(Mobile) single.php]((Mobile) single.php.png)
+![(Mobile) front-page](mobile_front-page.png)
+![(Mobile) page](mobile_page.png)
+![(Mobile) single-event](mobile_single-event.png)
+![(Mobile) single-speaker](mobile_single-speaker.png)
+![(Mobile) single](mobile_single.png)
 
 ---
 
 ### Tablet
 
-![(Tablet) front-page.php]((Tablet) front-page.php.png)
-![(Tablet) page.php]((Tablet) page.php.png)
-![(Tablet) single-event.php]((Tablet) single-event.php.png)
-![(Tablet) single-speaker.php]((Tablet) single-speaker.php.png)
-![(Tablet) single.php]((Tablet) single.php.png)
+![(Tablet) front-page](tablet_front-page.png)
+![(Tablet) page](tablet_page.png)
+![(Tablet) single-event](tablet_single-event.png)
+![(Tablet) single-speaker](tablet_single-speaker.png)
+![(Tablet) single](tablet_single.png)
 
 ---
 
 ### Desktop
 
-![(Desktop) front-page.php]((Desktop) front-page.php.png)
-![(Desktop) page.php]((Desktop) page.php.png)
-![(Desktop) single-event.php]((Desktop) single-event.php.png)
-![(Desktop) single-speaker.php]((Desktop) single-speaker.php.png)
-![(Desktop) single.php]((Desktop) single.php.png)
+![(Desktop) front-page](desktop_front-page.png)
+![(Desktop) page](desktop_page.png)
+![(Desktop) single-event](desktop_single-event.png)
+![(Desktop) single-speaker](desktop_single-speaker.png)
+![(Desktop) single](desktop_single.png)

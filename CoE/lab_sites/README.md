@@ -1,21 +1,21 @@
 ### Front Page - No Sidebar
 
-![Front Page - No Sidebar](Front Page - No Sidebar.png)
+![front_page-no_sidebar](front_page-no_sidebar.png)
 
 ---
 
 ### Content Type - Static Page - Sidebar
 
-![Content Type - Static Page - Sidebar](Content Type - Static Page - Sidebar.png)
+![content_type-static_page-sidebar](content_type-static_page-sidebar.png)
 
 ---
 
 ### Content Type - News
 
-![Content Type - News](Content Type - News.png)
+![Content Type - News](content_type-news.png)
 
 ---
 
 ### Content Type - Directory Entry
 
-![Content Type - Directory Entry](Content Type - Directory Entry.png)
+![Content Type - Directory Entry](content_type-directory_entry.png)
