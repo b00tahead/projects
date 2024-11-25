@@ -1,10 +1,32 @@
 # Projects
 List of projects I've designed, built, or worked on.
 
+### UK HealthCare
+**UKHC DevOps Design System [WIP]**
+- Lead team of designers and developers in building new design system and component library.
+- *Figma, React, Storybook*
+- [Current component designs](UKHC/UKHC%20DevOps%20Design%20System)
+
+**CareWeb [2022-23]**
+- Lead React developer on project to redesign and rebuild a two-decade old clinician resource.
+- *Figma, React*
+- [Some used/unused mockups of redesign](UKHC/CareWeb)
+
+**Hand Hygiene Form [2024]**
+- Was asked to help redesign the form for monitoring hygiene compliance in inpatient and ambulatory locations.
+- *Figma*
+- [Various mockups](UKHC/Hand%20Hygiene)
+
+**Planning Poker [2024]**
+- Fun project to help with planning poker sessions of sprint planning.
+- *Figma, React*
+- [Some initial designs and later mockups](UKHC/Planning%20Poker)
+
+---
 
 ### University of Kentucky College of Engineering
 **[College of Engineering Website](https://www.engr.uky.edu/) [2019-20]**
-- I currently maintain and build out new features for the main College website.
+- Maintained and built out new features for the main College website.
 - *Drupal, PHP, CSS*
 - [Example features/updates](CoE/engr)
 
