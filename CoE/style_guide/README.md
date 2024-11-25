@@ -1,6 +1,6 @@
 ### Content
 
-![Content](content.png)
+![Content](Content.png)
 
 ---
 
